@@ -1,0 +1,29 @@
+Source: blob — 9 file(s) found (6 PDF, 3 Excel)
+Excluding 1 file(s) from this run (not deleted from source):
+  EXCLUDED: sample-pdf-data/ISOIEC 17025 Certiificate and Scope of Accreditation- Validity up to 19-11-2027.pdf
+Processing 8 file(s) in this run.
+  OK: sample-pdf-data/2708469290SGS-AFL-Molecular-Service-Catalog-EN-A4-LR-19-11.pdf — kind=pdf parser=local_pdf doc_type=brochure pages=20 (text-based)
+  OK: sample-pdf-data/381854 - HN-New Camapign-21-04-A5-HR-1X1.pdf — kind=pdf parser=local_pdf doc_type=brochure pages=12 (text-based)
+  OK: sample-pdf-data/Contaminants_Regulations (1).pdf — kind=pdf parser=local_pdf doc_type=regulation pages=19 (text-based)
+  OK: sample-pdf-data/NABL Scope-TC-5378 1 (1).pdf — kind=pdf parser=local_pdf doc_type=accreditation_scope pages=256 (text-based)
+  OK: sample-pdf-data/SGS-AFL-Vitamin-Testing-Leaflet-A4-EN-LR-18-11.pdf — kind=pdf parser=local_pdf doc_type=brochure pages=2 (text-based)
+  OK: sample-xlsx-data/Food Testing capability.xlsx — kind=excel parser=excel_parser doc_type=capability_matrix sheets=5
+  OK: sample-xlsx-data/HN_Food_Testing_India_Key_Contacts.xlsx — kind=excel parser=excel_parser doc_type=contact_directory sheets=2
+  OK: sample-xlsx-data/TICBOT_Regulatory_Links_Register.xlsx — kind=excel parser=excel_parser doc_type=reference_register sheets=2
+
+=== fixed ===
+Wrote 1518 chunks to experiments_blob/fixed/chunks.jsonl
+
+=== recursive ===
+Wrote 1493 chunks to experiments_blob/recursive/chunks.jsonl
+
+=== structure_aware ===
+Wrote 1108 chunks to experiments_blob/structure_aware/chunks.jsonl
+
+=== hybrid ===
+Wrote 354 chunks to experiments_blob/hybrid/chunks.jsonl
+
+============================================================
+Processed 8/8 file(s) considered in this run, 0 failure(s)
+(1 of 9 files in the source were intentionally excluded — this is NOT a complete-dataset run)
+Processing report written to experiments_blob/processing_report.md (+ .json)

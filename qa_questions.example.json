@@ -1,0 +1,20 @@
+[
+  {
+    "question": "What is the tolerance limit for Carbaryl in fish?",
+    "area": "FSSAI regulation",
+    "expected_source_file": "Contaminants_Regulations_pages_1-5.pdf",
+    "expected_pages": [5]
+  },
+  {
+    "question": "What is the tolerance limit for Carbaryl in okra and leafy vegetables?",
+    "area": "FSSAI regulation",
+    "expected_source_file": "Contaminants_Regulations_pages_1-5.pdf",
+    "expected_pages": [6]
+  },
+  {
+    "question": "How long does template preparation take in the All Species ID software workflow?",
+    "area": "Brochures",
+    "expected_source_file": "SGS_Molecular_Catalog_pages_3-4-12.pdf",
+    "expected_pages": [16]
+  }
+]

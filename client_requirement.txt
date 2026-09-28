@@ -1,0 +1,10 @@
+The customer has asked for these:
+ I have also attached sample documents to understand what would be the Chunking strategy for the these .
+ Please could you share The chunking strategy used (section-aware, semantic, heading-aware, table-aware, hybrid, etc.).
+ Chunk size configuration:Minimum tokens,Average tokens,Maximum tokens
+ Overlap configuration between chunks.
+ How document hierarchy is preserved:Headings,Sub-headings,Section numbering,Tables,Appendices/Annexures
+ Sample Chunk output
+ How Tables are handled
+ Metadata Classification
+ Some retrieval and citation accuracy test if possible .
